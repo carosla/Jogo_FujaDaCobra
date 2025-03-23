@@ -69,7 +69,7 @@ Este repositório contém o código-fonte do jogo *Coin Catcher*, onde o jogador
 
 ## 🔗 Link para acesso ao jogo online
 
-[Acesse o Coin Catcher aqui](https://coin-catcher-game.vercel.app/)
+[Acesse o Coin Catcher aqui](https://carosla.itch.io/coin-catcher2)
 
 
 ## ✒️ Autores
