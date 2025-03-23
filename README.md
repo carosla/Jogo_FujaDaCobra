@@ -13,6 +13,11 @@ Este repositório contém o código-fonte do jogo *Coin Catcher*, onde o jogador
 
 - `Banco de Dados (2 pontos):` Integração com banco de dados funcional (Envio e Recebimento) no Firebase.
 - `Funcionamento (2 pontos):` Jogo funcionando corretamente.
+- `README (2 pontos):` README bem feito contendo a descrição do projeto
+- `Arquivos (2 pontos):` Pasta com sprites utilizados
+- `Aplicação (1 ponto): ` Prints da aplicação e banco de dados
+- `Link (1 ponto): ` Link para acessar a aplicação online
+
 
 ### Recursos apresentados
 - `Tela principal:` criação da interface inicial do jogo.
@@ -54,8 +59,14 @@ npm install
 ## 📸 Prints da Aplicação e Banco de Dados
 
 
+## 🔗 Link para acesso ao jogo online
+
+[Acesse o Coin Catcher aqui](https://coin-catcher-game.vercel.app/)
+
 
 ## ✒️ Autores
+
+- **Desenvolvedor(a)** - [Ana Carolina Neias](https://www.linkedin.com/in/anacarolinaneias/)
 
 - **Desenvolvedor(a)** - [Ana Carolina Neias Ribeiro Vieira](https://www.linkedin.com/in/anacarolinaneias/)
 
