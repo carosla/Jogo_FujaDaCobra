@@ -25,6 +25,7 @@ Este repositório contém o código-fonte do jogo *Fuja das Cobras*, onde o joga
 - `Gerenciamento de estado:` controle do estado do jogo e pontuação.
 - `Lógica de colisão:` desenvolvimento do sistema de colisão entre personagem e cobras.
 - `Leaderboard:` criação de um ranking com as melhores pontuações.
+- `Sons:` aplicação de sons para melhor interação com o jogo.
 
 ## 🔧 Instalação
 
