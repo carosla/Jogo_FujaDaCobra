@@ -69,7 +69,7 @@ Este repositório contém o código-fonte do jogo *Fuja das Cobras*, onde o joga
 
 ## 🔗 Link para acesso ao jogo online
 
-[Acesse o jogo aqui](https://carosla.itch.io/coin-catcher2)
+[Acesse o jogo aqui](https://carosla.itch.io/fuja-das-cobras)
 
 
 ## ✒️ Autores
