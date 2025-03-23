@@ -66,7 +66,5 @@ npm install
 
 ## ✒️ Autores
 
-- **Desenvolvedor(a)** - [Ana Carolina Neias](https://www.linkedin.com/in/anacarolinaneias/)
-
-- **Desenvolvedor(a)** - [Ana Carolina Neias Ribeiro Vieira](https://www.linkedin.com/in/anacarolinaneias/)
+- **Desenvolvedora** - [Ana Carolina Neias Ribeiro Vieira](https://www.linkedin.com/in/anacarolinaneias/)
 
