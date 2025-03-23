@@ -38,7 +38,7 @@ Este repositório contém o código-fonte do jogo *Fuja das Cobras*, onde o joga
 
 ![2](https://github.com/carosla/Jogo_FujaDaCobra/blob/main/Etapas/2%20Etapa.png)
 
-#### A direita, clique em "Abrir" > "Arquivo" e escolha o arquivo com a extensão ".cp3"
+#### A direita, clique em "Abrir" > "Arquivo" e escolha o arquivo com a extensão ".c3p"
 
 ![3](https://github.com/carosla/Jogo_FujaDaCobra/blob/main/Etapas/3%20Etapa.png) \
 ![4](https://github.com/carosla/Jogo_FujaDaCobra/blob/main/Etapas/c3p.png)
