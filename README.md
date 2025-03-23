@@ -1,6 +1,6 @@
-# 🐍 Coin Catcher - Jogo de Coleta de Moedas
+# 🐍 Fuja das Cobras - Jogo de Coleta de Moedas
 
-Este repositório contém o código-fonte do jogo *Coin Catcher*, onde o jogador precisa coletar moedas que caem e fugir das cobras. Se tocar em uma cobra, perde o jogo. Os pontos são acumulados no banco de dados conforme o nome inserido.
+Este repositório contém o código-fonte do jogo *Fuja das Cobras*, onde o jogador precisa coletar moedas que caem e fugir das cobras. Se tocar em uma cobra, perde o jogo. Os pontos são acumulados no banco de dados conforme o nome inserido.
 
 ## 💻 Tecnologias utilizadas
 
@@ -69,7 +69,7 @@ Este repositório contém o código-fonte do jogo *Coin Catcher*, onde o jogador
 
 ## 🔗 Link para acesso ao jogo online
 
-[Acesse o Coin Catcher aqui](https://carosla.itch.io/coin-catcher2)
+[Acesse o jogo aqui](https://carosla.itch.io/coin-catcher2)
 
 
 ## ✒️ Autores
